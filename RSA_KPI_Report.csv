@@ -1,0 +1,5 @@
+Country,TotalTransactions,FraudulentTransactions,DetectedFraud,AverageTransactionAmount
+France,226,10,109,5048.1571766642455
+Germany,258,20,258,5111.777025082537
+Spain,267,14,267,4720.669754448134
+UK,249,16,126,5057.609128212451
